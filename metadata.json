@@ -1,0 +1,8 @@
+{
+  "name": "FeedFlow - Social Media RSS Generator",
+  "description": "Generate live RSS feeds, JSON feeds, and embeddable widgets for Facebook, Twitter/X, Instagram, YouTube, TikTok, Reddit, and all social platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
